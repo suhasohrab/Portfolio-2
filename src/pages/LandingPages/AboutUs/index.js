@@ -50,7 +50,7 @@ function AboutUs() {
       <div id="background">
       <Navbar/>
       <MKBox
-        minHeight="75vh"
+        minHeight="100vh"
         width="100%"
         sx={{
           backgroundImage: ({ functions: { linearGradient, rgba }, palette: { gradients } }) =>
@@ -103,8 +103,7 @@ function AboutUs() {
       >
         <Profile/>
         <MKTypography variant="h3" style={style}>My Projects</MKTypography>
-        <Proj style={styleb}/>
-        <br></br><br></br><br></br>
+        <Proj />
         <Contact style={styleb}/>
         <Testimonials style={styleb}/>
         <CenteredFooter style={styleb}/>

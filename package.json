@@ -28,6 +28,7 @@
     "@emotion/cache": "11.4.0",
     "@emotion/react": "11.4.1",
     "@emotion/styled": "11.3.0",
+    "@material-ui/core": "^4.12.4",
     "@mui/icons-material": "5.2.0",
     "@mui/material": "5.2.0",
     "@mui/styled-engine": "5.2.0",
@@ -58,8 +59,10 @@
     "react-slick": "^0.29.0",
     "react-stars-display": "^0.1.24",
     "react-syntax-highlighter": "15.4.5",
+    "react-text": "^3.2.5",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.6",
+    "text": "^0.1.0",
     "use-state": "^0.0.3",
     "usestate": "^1.1.3",
     "web-vitals": "1.0.1"
